@@ -26,7 +26,7 @@ Here's a quick look at the Kickstarting Analysis and Challenges of this Project,
 #### Deliverable Requirements with detail analysis:
 **1. A Years column is created based on the Date Created Conversion column in the Kickstarter spreadsheet.**
 
-> In the "Years" column, use the `YEAR()` function to extract the year from the “Date Created Conversion” column.
+> In the "Years" column, use the `YEAR()` function to extract the year from the “Date Created Conversion” column. 
 
 
 ![name-of-you-image](https://github.com/emmanuelmartinezs/kickstarter-analysis/blob/master/artifacts_images/A%20Years%20column%20is%20created.PNG?raw=true)
