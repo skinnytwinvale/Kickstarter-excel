@@ -12,7 +12,7 @@
 
 ### Analysis of Outcomes Based on Goals
 
-
+ 
 ### Challenges and Difficulties Encountered
 
 *The Analysis I made were with the corresponding images and data. Some challenges I encountered were getting the functions correct, for example the COUNTIFS function. I had to make sure everything was included and accurate. Make the charts correspond with the data of my choosing was also a difficult task, I had to play around with the placements to figure out where the data should go
