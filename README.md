@@ -8,7 +8,7 @@ Learning from the intricacies of Excel will draw on (and enhance) skills we may 
 Including advanced Excel features formulas, charts, and pivot tables. 
 
 ## Analysis and Challenges
-Here's a quick look at the Kickstarting Analysis and Challenges of this Project, including the following tasks:
+Here's a quick look at the Kickstarting Analysis and Challenges of this Project, including the following tasks:     
 
 - Import data into a table for analysis.
 - Apply filters, conditional formatting, and formulas.
