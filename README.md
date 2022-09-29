@@ -153,7 +153,7 @@ Biggest challenge was filtering the pivot table to visualize the relationship be
 
 
 
-- What can you conclude about the Outcomes based on Goals?
+- What can you conclude about the Outcomes based on Goals? 
 
 > As Conclusion, our Outcomes based on Goals measures using line chart of central tendency work in practice help us finding the mean and median for each dataset's (the failed and successful campaigns).
 
