@@ -4,7 +4,7 @@
 
 ### Purpose
 
-*The purpose of this project was to be able to show we can successfully be able to analyze and convert the data so it can be easier to read. We had to show we could convert specific data in the Kick Starter data set into pivot tables, line charts, and Column charts. We also had to pull data from the Kick Starter data into new sheet and create new data with the COUNTIFS function.
+*The purpose of this project was to be able to show we can successfully be able to analyze and convert the data so it can be easier to read. We had to show we could convert specific data in the Kick Starter data set into pivot tables, line charts, and Column charts. We also had to pull data from the Kick Starter data into new sheet and create new data with the COUNTIFS function. 
   
 ## Analysis and Challenges
 
