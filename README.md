@@ -1,6 +1,6 @@
 # KICKSTARTING ANALYSIS WITH EXCEL
 
-## Overview of Project. 
+## Overview of Project.  
 
 ### Purpose
 A deep dive into Excel, as we know, Excel is a tool that can be used across all Organizations areas, including from household budgeting to complex financial analysis. 
